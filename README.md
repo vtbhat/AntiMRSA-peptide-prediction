@@ -1,5 +1,5 @@
 # AntiMRSA-peptide-prediction
-This repository consists of scripts to create a database of antimicrobial peptides exhibiting anti-MRSA activity from publicly available online databases, and to create a machine learning-based classifier to predict peptides as anti-MRSA
+This repository consists of scripts to create a database of antimicrobial peptides exhibiting anti-MRSA (methicillin-resistant Staphylococcus aureus) activity from publicly available online databases, and to create a machine learning-based classifier to predict peptides as anti-MRSA
 
 ## AntiMRSApeptideparser.py
 Antimicrobial Peptide Database (APD) is a publicly available database of antimicrobial peptides. Each peptide has aan identifier of the format 'AP(5 digits)'. The database can be queried to obtain a list of peptides exhibiting specific activity
