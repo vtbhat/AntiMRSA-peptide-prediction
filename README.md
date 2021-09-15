@@ -6,4 +6,4 @@ Antimicrobial Peptide Database (APD) is a publicly available database of antimic
 
 Input: Input file containing the text from a search query on APD (here, anti-MRSA)
 
-Output: CSV file containing the APD ID and the correspoding amino acid sequence of the peptide
+Output: CSV file containing the APD ID and the corresponding amino acid sequence of the peptide
