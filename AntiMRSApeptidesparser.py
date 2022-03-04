@@ -1,7 +1,7 @@
 import re
 import pandas as pd
 
-file1= open("C:/Users/VARSHA BHAT/Downloads/Queryresults.txt", "r").readlines()
+file1= open("path/Downloads/Queryresults.txt", "r").readlines()
 dictofmrsa = {}
 
 for i in file1:
